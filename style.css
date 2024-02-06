@@ -70,6 +70,7 @@
 
     .container h1{
         font-size:1.50rem; 
+        margin-top: 10px;
     }
     
     .container h1 img{
@@ -79,6 +80,7 @@
     .container button{
         font-size:0.90rem;
         padding:10px 15px;
+       
     }
 
     .container button img{
